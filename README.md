@@ -1,6 +1,6 @@
-# CRISC (Crabby RISC)
+# CRISC (Compact RISC)
 
-## The CRISC-1 CPU , or Crabby RISC, is a simplistic 8-bit RISC-based processor, made to learn and teach computer science subjects, such as “Computer Architecture”, “Digital Logic” and “Assembly Language”.
+## The CRISC-1 CPU , or Compact RISC, is a simplistic 8-bit RISC-based processor, made to learn and teach computer science subjects, such as “Computer Architecture”, “Digital Logic” and “Assembly Language”.
 
 This processor was designed for the [Logisim Evolution](https://github.com/logisim-evolution/logisim-evolution) simulator.
 
